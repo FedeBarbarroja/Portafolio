@@ -1,7 +1,7 @@
 # Portafolio de Proyectos – Federico Barbarroja
 
 ¡Bienvenido/a a mi portafolio!  
-Soy estudiante avanzado de la Tecnicatura en Inteligencia Artificial en la FCEIA – UNR. Este repositorio centraliza los proyectos más relevantes en los que trabajé, relacionados con análisis de datos, estadística, visualización, machine learning y más.
+Soy estudiante avanzado de la Tecnicatura en Inteligencia Artificial en la FCEIA – UNR. Este repositorio centraliza los proyectos más relevantes en los que trabajé, relacionados con análisis de datos, estadística, visualización, machine learning, IA y más.
 
 ---
 
